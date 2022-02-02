@@ -1,0 +1,2 @@
+- 👋 Hi, I’m @ArrasaMonk
+- 👀 I’m interested in learning new code languages so I can be a programmer in the future :)
